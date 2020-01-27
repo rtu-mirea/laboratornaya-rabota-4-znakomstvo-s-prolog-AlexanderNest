@@ -1,7 +1,5 @@
 /*****************************************************************************
 
-		Copyright (c) 1984 - 2000 Prolog Development Center A/S
-
  Project: kursovaya
  FileName: kurs.PRO
  Purpose: 
